@@ -1,0 +1,16 @@
+{
+  "name": "script-for-img",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yury Saburov <the.saburchik@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-image": "^6.2.1",
+    "gulp-webp": "^4.0.1"
+  }
+}
